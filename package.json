@@ -3,7 +3,7 @@
   "license": "MIT",
   "engines": {
     "node": "6.9.5",
-    "yarn": "1.7.0"
+    "yarn": "1.22.10"
   },
   "scripts": {
     "build": "yarn --cwd client install && yarn --cwd client build",
