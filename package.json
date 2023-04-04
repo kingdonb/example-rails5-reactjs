@@ -2,7 +2,7 @@
   "name": "rock-solid-modern-ingredients-app",
   "license": "MIT",
   "engines": {
-    "node": "6.9.5",
+    "node": "6.17.1",
     "yarn": "1.7.0"
   },
   "scripts": {
